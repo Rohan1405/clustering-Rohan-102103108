@@ -2,7 +2,7 @@
 
 # Clustering Assignment using PyCaret
 
-This repository contains the implementation of different clustering algorithms on the Iris dataset using PyCaret. The goal is to explore the performance of clustering techniques with various pre-processing methods and evaluate them on different metrics.
+This repository contains the implementation of different clustering algorithms on the Pokemon dataset using PyCaret. The goal is to explore the performance of clustering techniques with various pre-processing methods and evaluate them on different metrics.
 
 ## Dataset
 
