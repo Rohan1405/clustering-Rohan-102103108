@@ -59,7 +59,19 @@ Various pre-processing techniques are applied to the data before clustering:
 
 ## Results
 
+1. Kmeans Clustering
+   
+   <img src="kmeans.png" width="600" height="400" alt="KMeans Image"></img>
 
+2. Hierarchical clustering
+  
+   <img src="Hierarchical clustering.png" width="600" height="400" alt="KMeans Image"></img>
+
+3. Birch clustering
+
+    <img src="birch.png" width="600" height="400" alt="KMeans Image"></img>
+   
+  
 ## Conclusion
 
 This assignment explores the application of clustering algorithms on the Pokemon dataset with various pre-processing techniques. The results and visualizations provide insights into the performance of different clustering methods under different scenarios.
