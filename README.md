@@ -6,12 +6,13 @@ This repository contains the implementation of different clustering algorithms o
 
 ## Dataset
 
-The dataset used for this assignment is the famous Iris dataset. The Iris dataset consists of 150 samples of iris flowers, each belonging to one of three species (setosa, versicolor, or virginica). The dataset contains four features: sepal length, sepal width, petal length, and petal width.
+The dataset used for this clustering assignment revolves around Pokemon, capturing information about various Pokemon species.
 
 ## Clustering Techniques
 
 1. **K Means Clustering**
 2. **Hierarchical Clustering**
+3. **Birch clustring**
 
 ## Evaluation Parameters
 
@@ -38,7 +39,7 @@ Various pre-processing techniques are applied to the data before clustering:
 ## Repository Structure
 
 - **`notebooks/`:** Jupyter notebooks containing the code for each clustering technique and pre-processing method.
-- **`data/`:** Folder containing the Iris dataset.
+- **`data/`:** Folder containing the Pokemon dataset.
 - **`results/`:** Folder containing the results and visualizations.
 - **`README.md`:** This file providing an overview of the assignment.
 
